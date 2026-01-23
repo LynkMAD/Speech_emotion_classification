@@ -1,3 +1,4 @@
+Fine-tune from [Speech-Emotion-Classification-with-PyTorch](https://github.com/Data-Science-kosta/Speech-Emotion-Classification-with-PyTorch)
 # Speech_emotion_classification
 bài tập lớn Speech and Sound
 # Data
